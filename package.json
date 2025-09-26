@@ -1,0 +1,7 @@
+{
+  "name": "df-bq-metadata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Utility functions to retrieve BigQuery table and dataset metadata for Dataform.",
+  "author": "Marco Tulio"
+}

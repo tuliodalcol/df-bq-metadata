@@ -1,0 +1,4 @@
+defaultLocation: US
+defaultProject: carby-analytics
+defaultDataset: dataform_helpers
+defaultAssertionDataset: dataform_helpers
